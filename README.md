@@ -10,4 +10,4 @@ We find that legislators’ attention to the pandemic strongly correlates with t
 
 ## Paper
 
-The paper is under review. The current version of the paper can be found [here](https://osf.io/r32nh/). If you have any questions, please email me at taegyoon@psu.edu
+The paper is under review. The current version of the paper can be found [here](https://github.com/taegyoon-kim/spap_state_attention/blob/main/Attention%20to%20the%20COVID-19%20pandemic%20on%20Twitter.pdf). If you have any questions, please email me at taegyoon@psu.edu
